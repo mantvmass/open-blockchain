@@ -1,4 +1,31 @@
 {
-    "blocks": [],
-    "transections": []
+    "blocks": [
+        {
+            "index": 1,
+            "nonce": null,
+            "difficulty": 4,
+            "timestamp": 1674160528,
+            "prev_hash": null,
+            "data": [
+                {
+                    "message": "Hello World!"
+                }
+            ],
+            "hash": "ef58d1a6b11e9bad83dac8b7a454fecae6f87f3787ca53d132900bea7a96001a"
+        }
+    ],
+    "transections": [
+       {
+            "txid": 1,
+            "confirmations": 0,
+            "data": {
+                "index": null,
+                "nonce": null,
+                "difficulty": null,
+                "timestamp": 1674160528,
+                "prev_hash": "ef58d1a6b11e9bad83dac8b7a454fecae6f87f3787ca53d132900bea7a96001a",
+                "data": "First transection"
+            }
+        }
+    ]
 }

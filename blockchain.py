@@ -114,8 +114,7 @@ class Transections(Blockchain):
         return
 
 # tx = Transections()
-# for i in range(19):
-#     tx.createTransection(sender = "man", reciver="phumin", detail={ "total": 500 })
+# tx.createTransection(sender = "man", reciver="phumin", detail={ "total": 500 })
 
 
 
